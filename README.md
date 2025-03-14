@@ -4,3 +4,8 @@ Winget is a command-line tool, and the client interface for the Windows Package 
 ### Download youtube videos use to winget
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file)
+
+```
+winget search yt-dlp
+winget install yt-dlp
+```
